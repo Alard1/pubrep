@@ -1,0 +1,5 @@
+rootProject.name = 'versatile-gantt-chart-viewer'
+include 'gantt-chart-plot'
+include 'common'
+
+
