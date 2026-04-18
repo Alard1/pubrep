@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b359038-c814-43f6-8d77-61a7181ea9f5" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/util">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/filemod">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/common">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/supply-chain">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+                <item name="supply-chain" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+                <item name="supply-chain" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+                <item name="util" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="multi-module-project" type="f1a62948:ProjectNode" />
+                <item name="util" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2pfz23vewzl24nsNQNzP8M5f91D" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Run filemod.executor": "Run",
+    "Gradle.Build multi-module-project.executor": "Run",
+    "Gradle.Tests in 'multi-module-project.supply-chain.test'.executor": "Run",
+    "Gradle.Tests in 'org.example.multi-module-project.common'.executor": "Run",
+    "Gradle.multi-module-project [:Main.main()].executor": "Run",
+    "Gradle.multi-module-project [build].executor": "Run",
+    "Gradle.multi-module-project [clean].executor": "Run",
+    "Gradle.multi-module-project [test].executor": "Run",
+    "Gradle.multi-module-project:common [build].executor": "Run",
+    "Gradle.multi-module-project:common [clean].executor": "Run",
+    "Gradle.multi-module-project:filemod [:filemod:Main.main()].executor": "Run",
+    "Gradle.multi-module-project:filemod [build].executor": "Run",
+    "Gradle.multi-module-project:gantt-chart-plot [:gantt-chart-plot:BuildNewMain.main()].executor": "Run",
+    "Gradle.multi-module-project:plots [:plots:StackedBarDemo.main()].executor": "Run",
+    "Gradle.multi-module-project:plots [:plots:WaterFallDemo.main()].executor": "Run",
+    "Gradle.multi-module-project:supply-chain [:supply-chain:Main.main()].executor": "Run",
+    "Gradle.multi-module-project:util [:util:Main.main()].executor": "Run",
+    "Gradle.multi-module-project:util [build].executor": "Run",
+    "Gradle.multi-module-project:util [test].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/alard/Development/gitrepo/multi-module-project/util",
+    "onboarding.tips.debug.path": "C:/Users/alard/Development/gitrepo/multi-module-project/src/main/java/org/example/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.4218391",
+    "settings.editor.selected.configurable": "google-java-format.settings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\alard\Development\gitrepo\multi-module-project\util" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\alard\Development\gitrepo\multi-module-project\common\src\test\java" />
+      <recent name="C:\Users\alard\Development\gitrepo\multi-module-project\common\src\main\java" />
+    </key>
+    <key name="MoveMembersDialog.RECENTS_KEY">
+      <recent name="versatilesetup.StandardPanelBuilder" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Run gantt-chart-plot">
+    <configuration name="Run filemod" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="app.Main" />
+      <module name="multi-module-project.filemod.main" />
+      <option name="PROGRAM_PARAMETERS" value="C:\Users\alard\OneDrive\Documents\Financieel\Transactieanalyse\periodic_import" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Run gantt-chart-plot" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="app.BuildNewMain" />
+      <module name="multi-module-project.gantt-chart-plot.main" />
+      <option name="PROGRAM_PARAMETERS" value="&quot;C:\\Users\\alard\\Documents\\data\\versatile_test\\eventblocks.txt&quot; &quot;C:\\Users\\alard\\Documents\\data\\versatile_test\\chars.txt&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StackedBarDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StackedBarDemo" />
+      <module name="multi-module-project.plots.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WaterFallDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="WaterFallDemo" />
+      <module name="multi-module-project.plots.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests in 'org.example.multi-module-project.common'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":common:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="multi-module-project [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="build" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="multi-module-project [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>false</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.Run gantt-chart-plot" />
+      <item itemvalue="Application.Run filemod" />
+      <item itemvalue="Application.StackedBarDemo" />
+      <item itemvalue="Application.WaterFallDemo" />
+      <item itemvalue="Gradle.Tests in 'org.example.multi-module-project.common'" />
+      <item itemvalue="Gradle.multi-module-project [build]" />
+      <item itemvalue="Gradle.multi-module-project [clean]" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.multi-module-project [build]" />
+        <item itemvalue="Gradle.multi-module-project [clean]" />
+        <item itemvalue="Gradle.Tests in 'org.example.multi-module-project.common'" />
+        <item itemvalue="Application.WaterFallDemo" />
+        <item itemvalue="Application.StackedBarDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b359038-c814-43f6-8d77-61a7181ea9f5" name="Changes" comment="" />
+      <created>1733171706708</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1733171706708</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/filemod/src/main/java/app/Main.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gantt-chart-plot/src/main/java/versatilesetup/StandardSettingsBuilder.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/gantt-chart-plot/src/main/java/input/model/InputLoader.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
