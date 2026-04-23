@@ -5,71 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2b359038-c814-43f6-8d77-61a7181ea9f5" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/.idea/google-java-format.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multi-module-project/.idea/google-java-format.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../multi-module-project/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/common/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/common/src/main/java/dataloader/BeanLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/common/src/main/java/dataloader/BeanWriter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/common/src/main/java/dataloader/TxtBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/app/BuildNewMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/app/GenericSettings.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/BlockToGroupMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/DataContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/GroupToTaskSeriesMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/ScrollFunctionCalculator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/TextAreaOutputStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/XYTaskDataset.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/options/ColorOption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/options/GroupOption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/buildingblocks/options/ScrollOption.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/ColorManager.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/ColoringFieldName.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/JFrameBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/ColorRadioButtonController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/ColorablePanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/DoubleGroupController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/EventOverviewScrollController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/GanttChartPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/GroupControllerAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/GroupRadioButtonController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/IRadioButtonController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/IScrollController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/Observable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/Observer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/ScrollButtonPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/ScrollController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/ScrollControllerAdapter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/SplitController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/buttons/StandardRadioButtonPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/listener/GanttBlockListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/listener/GanttChartListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/listener/MiniaturePanelClickListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/listener/SimpleDropdownListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/gui/panel/listener/StandardGanttLegendListener.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/input/model/CharacteristicBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/input/model/EventBlockBean.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/input/model/INewReservation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/input/model/InputLoader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/model/EventBlock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/model/Material.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/model/TaskPlus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/model/TaskSeriesCollectionPlus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/model/TaskSeriesPlus.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/versatilesetup/Executor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/versatilesetup/SingleEventDataContainer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/versatilesetup/StandardPanelBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gantt-chart-plot/src/main/java/versatilesetup/StandardSettingsBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../multi-module-project/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gantt-chart-plot/src/main/java/input/model/INewReservation.java" beforeDir="false" afterPath="$PROJECT_DIR$/gantt-chart-plot/src/main/java/input/model/INewReservation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,41 +76,42 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Run filemod.executor": "Run",
-    "Application.Run gantt-chart-plot.executor": "Run",
-    "Gradle.Build multi-module-project.executor": "Run",
-    "Gradle.Build versatile-gantt-chart-viewer.executor": "Run",
-    "Gradle.Tests in 'multi-module-project.supply-chain.test'.executor": "Run",
-    "Gradle.Tests in 'org.example.multi-module-project.common'.executor": "Run",
-    "Gradle.multi-module-project [:Main.main()].executor": "Run",
-    "Gradle.multi-module-project [build].executor": "Run",
-    "Gradle.multi-module-project [clean].executor": "Run",
-    "Gradle.multi-module-project [test].executor": "Run",
-    "Gradle.multi-module-project:common [build].executor": "Run",
-    "Gradle.multi-module-project:common [clean].executor": "Run",
-    "Gradle.multi-module-project:filemod [:filemod:Main.main()].executor": "Run",
-    "Gradle.multi-module-project:filemod [build].executor": "Run",
-    "Gradle.multi-module-project:gantt-chart-plot [:gantt-chart-plot:BuildNewMain.main()].executor": "Run",
-    "Gradle.multi-module-project:plots [:plots:StackedBarDemo.main()].executor": "Run",
-    "Gradle.multi-module-project:plots [:plots:WaterFallDemo.main()].executor": "Run",
-    "Gradle.multi-module-project:supply-chain [:supply-chain:Main.main()].executor": "Run",
-    "Gradle.multi-module-project:util [:util:Main.main()].executor": "Run",
-    "Gradle.multi-module-project:util [build].executor": "Run",
-    "Gradle.multi-module-project:util [test].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/alard/Development/gitrepo/multi-module-project/util",
-    "onboarding.tips.debug.path": "C:/Users/alard/Development/gitrepo/multi-module-project/src/main/java/org/example/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.4218391",
-    "settings.editor.selected.configurable": "google-java-format.settings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.Run filemod.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Run gantt-chart-plot.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build multi-module-project.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build versatile-gantt-chart-viewer.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Tests in 'multi-module-project.supply-chain.test'.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Tests in 'org.example.multi-module-project.common'.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project [:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project [test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:common [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:common [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:filemod [:filemod:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:filemod [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:gantt-chart-plot [:gantt-chart-plot:BuildNewMain.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:plots [:plots:StackedBarDemo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:plots [:plots:WaterFallDemo.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:supply-chain [:supply-chain:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:util [:util:Main.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:util [build].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.multi-module-project:util [test].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.versatile-gantt-chart-viewer:gantt-chart-plot [:gantt-chart-plot:BuildNewMain.main()].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/alard/Development/gitrepo/multi-module-project/util&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/alard/Development/gitrepo/multi-module-project/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4218391&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;google-java-format.settings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\alard\Development\gitrepo\multi-module-project\util" />
